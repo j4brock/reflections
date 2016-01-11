@@ -25,3 +25,9 @@ Without using github, you would have to do a lot more emailing
 and manually keep track of the latest files. 
 However, there is a downside: github requires that all 
 collaborators know how to use it and it can take some time to learn
+
+Ref 6:
+Seperate branches can be useful if you are trying to fix a bug but
+don't want to risk breaking the production code, or if you are
+working on a new feature and don't want to release it until
+it is completely finished.
