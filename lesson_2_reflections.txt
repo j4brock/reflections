@@ -28,3 +28,7 @@ Ref 6:
 Merging two branches together allows you to combine your new feature
 into the production branch. We represent it as two branches combining
 because the commits in both branches are still present.
+
+Ref 7:
+pros: easier to merge large files, quicker
+cons: sometimes might not merge the way you want it to?
