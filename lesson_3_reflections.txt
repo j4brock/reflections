@@ -19,3 +19,9 @@ A branch is a commit (and its parents).
 Ref 4:
 Benefit is that you are working on the most up-to-date code. Also,
 if needed, you can revert back to that state.
+
+Ref 5:
+Without using github, you would have to do a lot more emailing
+and manually keep track of the latest files. 
+However, there is a downside: github requires that all 
+collaborators know how to use it and it can take some time to learn
