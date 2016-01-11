@@ -1,0 +1,39 @@
+Using diff helped me see the differences
+between two long files that otherwise
+would have been very difficult. 
+
+command was diff -u oldfile newfile
+
+
+
+
+ref 2:
+seeing the history will allow you to 
+roll back to older versions of the file. 
+
+ref 3:
+pros: more control, less trash versions
+cons: prone to human error - could forget
+
+
+ref 4:
+because git is more useful for code, which often has files 
+that depend on each other
+
+
+ref 5: 
+git log shows you each individual commit, with timestamp,
+description and id
+git diff can be used to compare two different commits
+using their id (from git log)
+
+
+ref 6: 
+version control gives you a safety net.. you are more 
+confident to make changes that could break something
+because you know you can always revert to an older (working) version
+
+
+ref 7:
+I would like to use git for android development or any other
+programming fun 

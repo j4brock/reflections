@@ -1,0 +1,4 @@
+Ref 1:
+When you initialize a repository, you create a 
+hidden folder ".git" which contains metadata.
+Needs to be done to enable all the git features
