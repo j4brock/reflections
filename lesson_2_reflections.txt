@@ -8,3 +8,13 @@ Staging area acts as a buffer between the working
 directory and the repository. Instead of committing all
 files in the working directory to the repository,
 you can stage only the relevant ones first and then commit them
+
+Ref 3:
+Use the staging area to verify that you're commit 
+makes sense.. i.e., you don't have a file ready to commit
+that is not related to the fix/update.
+
+Ref 4:
+Branches are helpful in keeping the history because they are
+named, which allows you to understand what each branch does
+without having to test it. 
