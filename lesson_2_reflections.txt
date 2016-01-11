@@ -18,3 +18,8 @@ Ref 4:
 Branches are helpful in keeping the history because they are
 named, which allows you to understand what each branch does
 without having to test it. 
+
+Ref 5:
+Diagrams help you picture the different branches, especially
+the reachability. Branches are hard to visualize by just looking
+at different commits
