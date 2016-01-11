@@ -2,3 +2,9 @@ Ref 1:
 When you initialize a repository, you create a 
 hidden folder ".git" which contains metadata.
 Needs to be done to enable all the git features
+
+Ref 2:
+Staging area acts as a buffer between the working
+directory and the repository. Instead of committing all
+files in the working directory to the repository,
+you can stage only the relevant ones first and then commit them
