@@ -23,3 +23,8 @@ Ref 5:
 Diagrams help you picture the different branches, especially
 the reachability. Branches are hard to visualize by just looking
 at different commits
+
+Ref 6:
+Merging two branches together allows you to combine your new feature
+into the production branch. We represent it as two branches combining
+because the commits in both branches are still present.
