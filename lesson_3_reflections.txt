@@ -6,3 +6,12 @@ or when you may be working on different computers (home computer, work computer,
 Ref 2:
 Sometimes you may wish to work on a specific piece of code,
 not the most up-to-date version. 
+
+Ref 3:
+A fork is a clone that is set up on github. Clones from github 
+to your github. No work done on local machine
+
+A clone is just a copy of a repository. You can clone from github
+or your machine, but you cannot clone to github.
+
+A branch is a commit (and its parents). 
