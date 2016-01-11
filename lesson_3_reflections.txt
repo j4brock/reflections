@@ -2,3 +2,7 @@ Ref 1:
 A remote repository is better than a local repository
 when you are working either with a group of people 
 or when you may be working on different computers (home computer, work computer, etc).
+
+Ref 2:
+Sometimes you may wish to work on a specific piece of code,
+not the most up-to-date version. 
